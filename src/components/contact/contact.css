@@ -1,0 +1,136 @@
+.experiences{
+    height: 100%;  
+    text-align: center;
+    align-items: center;
+    
+}
+
+.hr{
+    margin-bottom: 70px;
+    width: 80%;
+    margin-left: 120px;
+}
+.exp{
+    margin-top: 20px;
+    
+    justify-content: center;
+}
+
+
+.Bars{
+    align-items: center;
+    justify-content: center;
+    margin: 4.5rem;
+    width: 20vw;
+    max-width: 75%;
+}
+
+
+.Bar{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    display: flex;
+    margin:1rem;
+    border-radius: 0.5rem;
+    background: rgb(50,50,50);
+    padding: 20px;
+    margin-left: 400px;
+    width: 700px;
+
+}
+
+.BarImg{
+    
+    justify-content: center;
+    height: 100%;
+    width: 7rem;
+}
+
+.BarText>p{
+    font-size: 1rem;
+    font-weight: 200;
+    padding:2px
+}
+.over{
+    font-size: 16px;
+    color: #FFCC70;
+}
+.overtxt{
+    font-size: 70px;
+    font-weight: 500;
+    
+}
+
+.label{
+    border-radius: 0.5rem;
+    background-color: rgb(116, 68, 68);
+    padding: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.buttonContainer {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px; /* Add some spacing between buttons and content */
+  }
+  
+  .button {
+    background-color: #FFCC70;
+    color: #000;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin: 0 10px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .button:hover {
+    background-color: #000;
+    color: #FFCC70;
+  }
+  @media (max-width: 768px) {
+    .Bars{
+        align-items: center;
+        justify-content: center;
+        margin: 4.5rem;
+        width: 20vw;
+        max-width: 75%;
+    }
+    
+    
+    .Bar{
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        flex-direction: column;
+        display: flex;
+        margin:1rem;
+        border-radius: 0.5rem;
+        background: rgb(50,50,50);
+        padding: 20px;
+        width: auto;
+    
+    }
+    
+    .BarImg{
+        
+        justify-content: center;
+        height: 100%;
+        width: 7rem;
+    }
+    
+    
+    .label{
+        border-radius: 0.5rem;
+        background-color: rgb(116, 68, 68);
+        padding: 3px;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    
+  }

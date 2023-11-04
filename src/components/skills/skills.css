@@ -1,0 +1,35 @@
+#skills {
+    margin: 0 auto;
+    min-height: calc(100vh - 4rem);
+    flex-direction: column;
+    text-align: center;
+    padding: 0 2rem;
+}
+
+.worksTittle {
+    margin: 1rem;
+    padding-bottom: 30px;
+    font-size: 3rem;
+}
+
+.workImg {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.worksImg {
+    background: rgb(50, 50, 50);
+    display: flexbox;
+    padding: 20px;
+    height: 140px;
+    margin: 0.75rem;
+    width: 150px;
+    transition: background-color 0.3s, box-shadow 0.3s; /* Add transition for smooth hover effect */
+}
+
+.worksImg:hover {
+    background-color: rgb(163, 163, 150); /* Change background color on hover */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 2); /* Add box shadow on hover */
+    transform: scale(1.1);
+}

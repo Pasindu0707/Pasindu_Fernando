@@ -1,0 +1,109 @@
+#intro{
+    height: calc(120vh -10rem);
+    overflow: hidden;
+    padding-top: 50px;
+    height: 100%;
+}
+
+.bg{
+    position: absolute;
+    z-index: -1;
+    top: -4rem;
+    margin-top: 150px;
+    right:0;    
+    margin-right: 50px;
+    object-fit: cover;
+    height: 90vh;
+}
+
+.introContent{
+    width: 150vh;
+    margin: 0 120px;
+    font-size: 3rem;
+    font-weight: 700;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 30px;
+}
+.hello{
+    font-size: 1.75;
+    font-weight: 100;
+    padding-bottom: 10px;
+}
+.introName{
+    color: #FFCC70;
+}
+.introPara{
+    font-size: medium;
+    font-weight: 100;
+    padding-top: 50px ;
+}
+
+.btn{
+    justify-content: space-between;
+    display:block;
+    padding-top: 20px;
+}
+.btn1{
+    padding-right: 20px;
+}
+.btn2{
+    padding-right: 20px;
+}
+.btn3{
+    padding-right: 20px;
+}
+.btn4{
+    padding-right: 20px;
+}
+
+.line{
+    margin:170px;
+    
+}
+
+@media (max-width: 768px) {
+    .bg {
+        height: 50vh;
+        top: 4rem;
+        margin-top: 0;
+        right: 5;
+    }
+
+    .introContent {
+        font-size: 2rem;
+        margin: 20px;
+        margin-top: 220px;
+        right: 7;
+    }
+
+    .hello {
+        font-size: 1.5rem;
+    }
+
+    .introName {
+        color: #FFCC70;
+    }
+
+    .introPara {
+        font-size: 0.90rem;
+        padding-top: 20px;
+    }
+
+    .btn {
+        flex-direction: row;
+        padding-top: 10px;
+    }
+
+    .btnIcon {
+        padding: 1px 0;
+        justify-content: space-between;
+        margin-left: 30px;
+    }
+    .line {
+        width: 100%; /* Adjust line width to span the entire screen */
+        margin: 1rem 0; /* Add some spacing for readability */
+    }
+}
+

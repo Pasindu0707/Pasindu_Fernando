@@ -1,0 +1,167 @@
+.hrEmial{
+    margin-bottom: 70px;
+    margin-top: 70px;
+    width: 80%;
+    margin-left: 120px;
+}
+.emailPage{
+    text-align: center;    
+}
+
+.contactPage{
+    display:flex;
+    flex-direction:row;
+    margin-top: 70px;
+}
+.number{
+    border-radius: 0.5rem;
+    background: rgb(50,50,50);
+}
+.contact{
+    width: 700px;
+    height: auto;
+}
+
+.number {
+    width: 700px;
+    margin-left: 90px;
+    height: auto;
+}
+  
+  .num {
+    display: flex;
+    flex-direction: row;
+    font-size: 20px;
+    margin-left: 150px;
+    margin-top: 50px;
+    align-content: center;
+  }
+  
+  .phone {
+    padding-right: 50px;
+    
+    margin-bottom: 20px;
+  }
+  
+  .contactForm {
+    padding-top: 80px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 0.5rem;
+    background: rgb(70,70,70);
+    display: flex;
+    flex-direction: column;
+    margin-left: 120px; /* Add some left margin to align with 'number' class */
+  }
+  
+  /* Add styles for the form inputs and submit button */
+  .contactForm input,
+  .contactForm textarea {
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 500px;
+    font-size: 16px;
+  }
+  
+  .submitBtn {
+    background-color: antiquewhite;
+    border: none;
+    padding: 0.75rem 3.5rem;
+    border-radius: 0.5rem;
+    margin: 2rem;
+    cursor: pointer;
+  }
+  
+  /* Style the form elements when they are focused */
+  .contactForm input:focus,
+  .contactForm textarea:focus {
+    outline: none;
+    border: 2px solid #FFCC70; /* Change the border color when focused */
+  }
+  
+  /* Style the submit button on hover */
+  .submitBtn:hover {
+    background-color: #FFCC70;
+    color: #000;
+  }
+
+  @media (max-width: 768px) {
+    .hrEmial{
+        margin-bottom: 70px;
+        margin-top: 70px;
+        width: 100%; /* Adjust line width to span the entire screen */
+        margin: 1rem 0; /* Add some spacing for readability */    
+    }
+    .emailPage{
+        padding-top: 20px;
+        text-align: center;    
+    }
+    
+    .contactPage{
+        display:flex;
+        flex-direction:column;
+        margin-top: 70px;
+    }
+    .number{
+        border-radius: 0.5rem;
+        background: rgb(50,50,50);
+        margin-left: 0%;
+        margin-bottom: 30px;
+        padding-bottom: 20px;
+        width: 350px;
+        margin-left: 15px;
+    }
+    .contact{
+        width:300px;
+        height: auto;
+        margin-left: 20px;
+    }
+    .num{
+        margin-left: 70px;
+    }
+    
+      .contactForm {
+        width: 350px;
+        padding-top: 80px;
+        margin-left: 4%;
+        border-radius: 0.5rem;
+        background: rgb(70,70,70);
+        display: flex;
+        flex-direction: column;
+        }
+      
+      /* Add styles for the form inputs and submit button */
+      .contactForm input,
+      .contactForm textarea {
+        padding: 10px;
+        margin: 5px 0;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        width: 320px;
+        font-size: 16px;
+      }
+      
+      .submitBtn {
+        background-color: antiquewhite;
+        border: none;
+        padding: 0.75rem 3.5rem;
+        border-radius: 0.5rem;
+        margin: 2rem;
+        cursor: pointer;
+      }
+      
+      /* Style the form elements when they are focused */
+      .contactForm input:focus,
+      .contactForm textarea:focus {
+        outline: none;
+        border: 2px solid #FFCC70; /* Change the border color when focused */
+      }
+      
+      /* Style the submit button on hover */
+      .submitBtn:hover {
+        background-color: #FFCC70;
+        color: #000;
+      }
+  }
