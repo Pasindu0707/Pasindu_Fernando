@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Pasindu_Fernando/static/css/main.c0c2136a.css",
+    "main.js": "/Pasindu_Fernando/static/js/main.fe3e7b98.js",
+    "static/media/PASINDU FERNANDO (1).png": "/Pasindu_Fernando/static/media/PASINDU FERNANDO (1).f78123d4874cd9948683.png",
+    "static/media/surecore.svg": "/Pasindu_Fernando/static/media/surecore.dd7ce467fcb70a180f0590a315084f34.svg",
+    "static/media/final.png": "/Pasindu_Fernando/static/media/final.291138f66eb6f2db4d4b.png",
+    "static/media/contact.png": "/Pasindu_Fernando/static/media/contact.1c418902a54d44c1ddda.png",
+    "static/media/vaz.png": "/Pasindu_Fernando/static/media/vaz.5d554ef77db80120fc52.png",
+    "static/media/phone.gif": "/Pasindu_Fernando/static/media/phone.d9a5b0ba79800e2bc216.gif",
+    "static/media/bullhorn.png": "/Pasindu_Fernando/static/media/bullhorn.281364afa5fa4771caf4.png",
+    "static/media/instagram.svg": "/Pasindu_Fernando/static/media/instagram.c83e628eea4e83e0d2b6c8e54910510c.svg",
+    "static/media/internet.png": "/Pasindu_Fernando/static/media/internet.b2c514376e752719d541.png",
+    "static/media/maris (1).png": "/Pasindu_Fernando/static/media/maris (1).b02c7682b7d4aa871fc3.png",
+    "static/media/postman.svg": "/Pasindu_Fernando/static/media/postman.c74cd48d00339ba03ff2e6ed3f9d0c4d.svg",
+    "static/media/mysql.svg": "/Pasindu_Fernando/static/media/mysql.c9286640a470004f40f86d07817e890e.svg",
+    "static/media/node.svg": "/Pasindu_Fernando/static/media/node.cccdafa931eebdaea49f5c5ac3ba232f.svg",
+    "static/media/java.svg": "/Pasindu_Fernando/static/media/java.3dec1fe704244f3cf61d9c1aa9e5707c.svg",
+    "static/media/git.svg": "/Pasindu_Fernando/static/media/git.adb057e9b81365542cdfd2327c007aa2.svg",
+    "static/media/react.svg": "/Pasindu_Fernando/static/media/react.a060cbe85e50deda1d61452cee9de5b2.svg",
+    "static/media/spring.svg": "/Pasindu_Fernando/static/media/spring.b39d866ef15303bd4182807431613051.svg",
+    "static/media/mongo.svg": "/Pasindu_Fernando/static/media/mongo.3beac5ba18197ccbdea6e2f53e18edcf.svg",
+    "static/media/js.svg": "/Pasindu_Fernando/static/media/js.081325c6f229605dce15142ddd948d6d.svg",
+    "index.html": "/Pasindu_Fernando/index.html",
+    "static/media/linkedin.svg": "/Pasindu_Fernando/static/media/linkedin.ada11cda991129bc91b79d2c7cee1066.svg",
+    "static/media/angular.svg": "/Pasindu_Fernando/static/media/angular.f9ef2acacb9c7dcc60c405977c26f5fe.svg",
+    "static/media/ts.svg": "/Pasindu_Fernando/static/media/ts.f20748caf2dac55710ddeed71de0bac4.svg",
+    "static/media/figma.svg": "/Pasindu_Fernando/static/media/figma.44ca2c329ade686d78f62ad73790c621.svg",
+    "static/media/firebase.svg": "/Pasindu_Fernando/static/media/firebase.c55df03130647cc8ee934a0a6ebecf70.svg",
+    "static/media/facebook.svg": "/Pasindu_Fernando/static/media/facebook.22d5e33c85b7691bd69150ce20e2d12b.svg",
+    "main.c0c2136a.css.map": "/Pasindu_Fernando/static/css/main.c0c2136a.css.map",
+    "main.fe3e7b98.js.map": "/Pasindu_Fernando/static/js/main.fe3e7b98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0c2136a.css",
+    "static/js/main.fe3e7b98.js"
+  ]
+}
